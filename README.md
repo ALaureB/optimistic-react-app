@@ -1,7 +1,6 @@
-Optimistic Interface Example
+# optimistic-react-app
 
-Developed with Create React App
+Optimistic Interface Example. Click on "like" (step3) to see difference between an optimistic or non optimistic design.
 
-yarn & yarn start
-
-Inspired by : https://medium.com/@_erikaybar/optimistic-ui-updates-in-react-9e139ffa2e45
+* yarn
+* yarn start
